@@ -16,7 +16,7 @@ This repository is based on the notebook `75da026b-dfc8-4d70-b0ed-12b6f062213d.i
 ## Repo Structure
 ```
 .
-├── 75da026b-dfc8-4d70-b0ed-12b6f062213d.ipynb   # Jupyter Notebook with full workflow
+├── iris_softmax_vs_svm.ipynb   # Jupyter Notebook with full workflow
 ├── Data_Iris.csv                                    # CSV dataset (add this file)
 └── README.md
 ```
