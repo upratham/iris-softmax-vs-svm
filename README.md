@@ -97,6 +97,6 @@ This template is provided under the **MIT License** by default. Update as needed
 ---
 
 ## Acknowledgements
-- Original notebook author: *Prathamesh Uravane (UID 122016187)*.
+- Original notebook author: Prathamesh Uravane.
 - The Iris dataset was originally introduced by R.A. Fisher (1936).
 
